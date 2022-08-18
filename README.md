@@ -15,7 +15,7 @@ Tutor for six-week course teaching 4th-5th graders fundamental coding principles
 
 🌱 Interests:
 
-• Web development
+• RACCOONS AND DOGS
 
 💬 Reach me by email or LinkedIn! gcha@ucsd.edu | www.linkedin.com/in/gabrielcha
 
