@@ -1,0 +1,1 @@
+Hello, I’m a UC San Diego data-science grad (incoming M.S. at Columbia Engineering) focused on aligning LLMs with human intent and building agentic AI tools. I’ve built an LLM-powered JupyterLab extension for automated teaching content, slashed data-pipeline latency at Edison, and taught 1,200 + students as a nine-time TA in ML and data science.
